@@ -1,0 +1,48 @@
+_repo: Coming-Home1916_24349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: First published in Scribner's Magazine in 1915, Edith Wharton's Coming
+  home is a short story of seven chapters that centers around the life of a French
+  man named Jean de Réchamp during the war. The story is narrated in the first-personal
+  pronoun and bases itself on reports about the atrocities committed by the German
+  army. Jean de Réchamp, who is engaged to Mlle. Malo, wants to know about his family
+  that he left in his home country just before the war was declared. On a journey
+  back to his home town Réchamp in Eastern France, the roads seem eerily empty save
+  for the sentinels guarding the railways. Even the names of towns and roads are scratched
+  out off the milestones in order to mislead the enemy. Fortunately, Jean knows his
+  directions and finally reaches Réchamp with his companions who include a wounded
+  man. When they reach the town, an old woman as well as other countrymen tell them
+  about the atrocities of the what has happened and how the village has been destroyed.
+  Jean finally meets his family. However, by the end of the narrative, the wounded
+  companion dies.
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: 'Coming Home
+
+  1916'
+url: http://www.gutenberg.org/ebooks/24349
